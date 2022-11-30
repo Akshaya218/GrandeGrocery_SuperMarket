@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1611539373 source:c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\biller.c
+	"biller.h"
+
+1611539410 c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\biller.h
+	"databasefunc.h"
+	"ui.h"
+	<stdlib.h>
+	<time.h>
+
+1611531001 c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\databasefunc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1611537109 source:c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\databasefunc.c
+	"databasefunc.h"
+
+1611432770 source:c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\firstscreen.c
+	"firstscreen.h"
+
+1611433810 c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\firstscreen.h
+	"superuser.h"
+	"biller.h"
+	"ui.h"
+
+1611433810 c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\superuser.h
+	"databasefunc.h"
+	"ui.h"
+
+1611432183 source:c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\main.c
+	"firstscreen.h"
+
+1611531719 source:c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\superuser.c
+	"superuser.h"
+
+1611534133 source:c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\ui.c
+	"ui.h"
+
+1611536010 c:\users\asrit\desktop\msc software systems\sdlgame\projects\project\ui\project\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1611544580 source:d:\cat project - copy\cat project update2\cat project\biller.c
+	"biller.h"
+
+1611544580 d:\cat project - copy\cat project update2\cat project\biller.h
+	"databasefunc.h"
+	"ui.h"
+	<stdlib.h>
+	<time.h>
+
+1611544580 d:\cat project - copy\cat project update2\cat project\databasefunc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1611544580 d:\cat project - copy\cat project update2\cat project\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1611544580 source:d:\cat project - copy\cat project update2\cat project\firstscreen.c
+	"firstscreen.h"
+
+1611544580 d:\cat project - copy\cat project update2\cat project\firstscreen.h
+	"superuser.h"
+	"biller.h"
+	"ui.h"
+
+1611544580 d:\cat project - copy\cat project update2\cat project\superuser.h
+	"databasefunc.h"
+	"ui.h"
+
+1663050446 source:d:\cat project - copy\cat project update2\cat project\main.c
+	<stdio.h>
+
+1611544580 source:d:\cat project - copy\cat project update2\cat project\superuser.c
+	"superuser.h"
+
+1611544580 source:d:\cat project - copy\cat project update2\cat project\ui.c
+	"ui.h"
+
+1625495868 source:d:\cat project - copy\cat project update2\cat project\databasefunc.c
+	"databasefunc.h"
+
